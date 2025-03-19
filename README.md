@@ -42,7 +42,7 @@ The **final model** was **resized, painted**, and fitted with **servo motors and
 - **Material:** 3D-printed PLA, hand-painted with acrylic  
 
 ## 📂 Repository Contents  
-- **`stl_files/`** – All four versions of our **Remy 3D model** (`.stl` files)  
+- **`stl_files/`** – The last versions of our **Remy 3D model** (`.stl` files) - with the body, the left arm and the right arm. 
 - **`remy_code.ino`** – Code for controlling the **servo motors and LED eyes**  
 - **`images/`** – Pictures from each stage of the project  
 
