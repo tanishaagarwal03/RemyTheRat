@@ -7,19 +7,19 @@ We initially started with the [Remy model](https://github.com/shebuildsrobots/re
 
 ### First Print (Original STL)  
 The original model looked very different to what we had imagined, even when we tried to edit it (learned the hard way that STL files should not be edited directly).  
-![First Print](images/first_print.jpg)  
+![First Print](images/trial_one.jpg)  
 
 ### Blender Modifications  
 Then we decided to go all in and learned **Blender** and created a **basic modified version** to understand how this would look printed and gauge sizing and measurements.  
-![Blender Edit](images/blender_edit_one.jpg)  
+![Blender Edit](images/trial_two.jpg)  
 
 ### Second Print (With Arms)  
 This model had **arms added**, allowing us to test the **servo motors and LED fittings**, but the arms were too big.  
-![Second Print](images/second_print.jpg)  
+![Second Print](images/trial_three.jpg)  
 
 ### Final Print (Painted & Assembled)  
 The **final model** was **resized, painted**, and fitted with **servo motors and LED eyes**. Remy's palms form a circular grip so Remy can **hold hair** and it looks like Remy is actually controling us.  
-![Final Model](images/final_model.jpg)  
+![Final Model](images/trial_four.jpg)  
 
 ## ⚙️ Hardware & Components  
 - **Microcontroller:** Arduino Nano Every  
