@@ -1,1 +1,1 @@
-This contains all the versions of the STL files that we used for the project.
+This contains latest version of the STL files that we used for the project.
