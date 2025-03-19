@@ -29,7 +29,7 @@ The **final model** was **resized, painted**, and fitted with **servo motors and
 
 ## 📂 Repository Contents  
 - **`stl_files/`** – All four versions of our **Remy 3D model** (`.stl` files)  
-- **`arduino_code/`** – Code for controlling the **servo motors and LED eyes**  
+- **`remy_code.ino`** – Code for controlling the **servo motors and LED eyes**  
 - **`images/`** – Pictures from each stage of the project  
 
 ## 🔧 How It Works  
