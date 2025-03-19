@@ -1,25 +1,36 @@
 # RemyTheRat
 
-This project was created for our **CS12** course - 'Introduction to Prototyping' at Caltech, where we designed, 3D printed, and built a small robotic rat inspired by *Ratatouille*. The rat features **moving arms**, **LED eyes**, and the ability to **hold hair** — all controlled using an **Arduino Nano Every**.  
+This project was created for our **CS12** course - 'Introduction to Prototyping' at Caltech, where we designed, 3D printed, and built a small robotic rat inspired by *Ratatouille*. The rat features **moving arms**, **LED eyes**, and the ability to **hold hair** — all controlled using an **Arduino Nano Every**. The rat sits atop a headband you can wear.
+<p align="center">
+<img src="images/final.PNG" alt="Final Finished Model" width="600">
+</p>
 
 ## 🎨 Design & Iteration Process  
 We initially started with the [Remy model](https://github.com/shebuildsrobots/remy_model) which was our inspiration for this project but found that it didn’t match our vision. After multiple modifications and failed attempts, we learned Blender and designed our own version. Below are the major stages of development:  
 
 ### First Print (Original STL)  
-The original model looked very different to what we had imagined, even when we tried to edit it (learned the hard way that STL files should not be edited directly).  
-![First Print](images/trial_one.jpg)  
+The original model looked very different to what we had imagined, even when we tried to edit it (learned the hard way that STL files should not be edited directly).   
+<p align="center">
+<img src="images/trial_one.jpg" alt="First Print" width="400">
+</p>
 
 ### Blender Modifications  
 Then we decided to go all in and learned **Blender** and created a **basic modified version** to understand how this would look printed and gauge sizing and measurements.  
-![Blender Edit](images/trial_two.jpg)  
+<p align="center">
+<img src="images/trial_two.jpg" alt="Second Print" width="400">
+</p>
 
 ### Second Print (With Arms)  
-This model had **arms added**, allowing us to test the **servo motors and LED fittings**, but the arms were too big.  
-![Second Print](images/trial_three.jpg)  
+This model had **arms added**, allowing us to test the **servo motors and LED fittings**, but the arms were too big. You can see the edits made to the back of the rat to fit the motors and the holes made for the eyes to hold the LEDs.
+<p align="center">
+<img src="images/trial_three.jpg" alt="Third Print" width="400">
+</p>
 
 ### Final Print (Painted & Assembled)  
 The **final model** was **resized, painted**, and fitted with **servo motors and LED eyes**. Remy's palms form a circular grip so Remy can **hold hair** and it looks like Remy is actually controling us.  
-![Final Model](images/trial_four.jpg)  
+<p align="center">
+<img src="images/trial_four.jpg" alt="Fourth Print" width="400">
+</p>
 
 ## ⚙️ Hardware & Components  
 - **Microcontroller:** Arduino Nano Every  
