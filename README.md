@@ -4,6 +4,9 @@ This project was created for our **CS12** course - 'Introduction to Prototyping'
 <p align="center">
 <img src="images/final.PNG" alt="Final Finished Model" width="600">
 </p>
+<p align="center">
+<img src="images/on_hair.jpg" alt="Final Finished Model On Head" width="600">
+</p>
 
 ## 🎨 Design & Iteration Process  
 We initially started with the [Remy model](https://github.com/shebuildsrobots/remy_model) which was our inspiration for this project but found that it didn’t match our vision. After multiple modifications and failed attempts, we learned Blender and designed our own version. Below are the major stages of development:  
