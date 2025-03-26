@@ -1,6 +1,6 @@
 # RemyTheRat
 
-This project was created for our **CS12** course - 'Introduction to Prototyping' at Caltech, where we designed, 3D printed, and built a small robotic rat inspired by *Ratatouille*. The rat features **moving arms**, **LED eyes**, and the ability to **hold hair** — all controlled using an **Arduino Nano Every**. The rat sits atop a headband you can wear.
+This project was created for our **CS12** course - 'Introduction to Prototyping' at Caltech, where we designed, 3D printed, and built a small robotic rat inspired by *Ratatouille* and by instagram creator @shebuildsrobots. The rat features **moving arms**, **LED eyes**, and the ability to **hold hair** — all controlled using an **Arduino Nano Every**. The rat sits atop a headband you can wear.
 <p align="center">
 <img src="images/final.PNG" alt="Final Finished Model" width="600">
 </p>
@@ -49,7 +49,9 @@ The **final model** was **resized, painted**, and fitted with **servo motors and
 ## 🔧 How It Works  
 1. The **servos randomly move the arms**, simulating small randomised motions.  
 2. The **LED eyes light up**, adding a lively effect.  
-3. The arms are positioned to **hold a piece of hair**, staying true to *Ratatouille*.  
+3. The arms are positioned to **hold a piece of hair**, staying true to *Ratatouille*.
+
+You can find more details about how you can build it here: https://hackaday.io/project/202363-remy-the-rat.
 
 ## Future Tweaks
 
